@@ -20,6 +20,16 @@ The goal is not to reproduce a real submarine exactly. It is to build a transpar
 
 ---
 
+## 🚀 Try the Interactive Experiment
+
+Explore how speed, water density, frontal area, and body shape affect estimated underwater drag.
+
+👉 **[Launch the Submarine Shape Lab](https://asugr-submarine-shape-experiment-appapp-osqxjs.streamlit.app/)**
+
+Try changing the speed and shape and observe how the estimated drag changes.
+
+---
+
 ## 📐 The Physics
 
 The simplified drag equation is:
